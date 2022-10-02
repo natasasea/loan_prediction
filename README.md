@@ -1,4 +1,4 @@
-# loan_prediction
+# Project
 Intership Project : Loan Prediction
 
 ## Aim
